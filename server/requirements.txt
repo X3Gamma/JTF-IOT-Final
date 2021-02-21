@@ -1,0 +1,12 @@
+# Server
+flask
+gevent
+
+# IOT Core MQTT
+awsiotpythonsdk
+paho-mqtt
+
+# Rekognition & S3
+awscli
+botocore
+boto3

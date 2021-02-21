@@ -1,0 +1,2 @@
+# Unsets all text attributes to disable CRLF handing
+* -text

@@ -1,0 +1,17 @@
+# Hardware
+adafruit-dht
+gpiozero
+picamera
+rpi-lcd
+
+# IOT Core MQTT
+awsiotpythonsdk
+paho-mqtt
+
+# Rekognition & S3
+awscli
+botocore
+boto3
+
+# Telegram
+telepot
